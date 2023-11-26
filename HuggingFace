@@ -1,1 +1,3 @@
-git init    
+git lfs install
+git clone https://huggingface.co/Bilic/Mistral-7B-LLM-Fraud-Detection
+
